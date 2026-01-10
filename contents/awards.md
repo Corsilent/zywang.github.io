@@ -1,12 +1,8 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- First-Prize Graduate Academic Scholarship (ECNU), 2024 & 2025.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- Outstanding Undergraduate Thesis Award (HFUT), 2023.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- Second-Prize Undergraduate Academic Scholarship (HFUT), 2021 & 2022.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- First-Prize Undergraduate Academic Scholarship (HFUT), 2020.

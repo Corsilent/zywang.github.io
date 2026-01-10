@@ -1,16 +1,26 @@
-#### Submitted
-
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
-
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>Z. Wang</strong>, S. Ye, F. Fang*, and H. Song (2026). Towards Privacy-Protected Generalized Gaze Estimation Using Diffusion Models and Domain Stability Adaptation Framework <strong>AAAI Conference on Artificial Intelligence</strong>. 
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+#### Submitted
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- <strong>Z. Wang</strong>, Y. Du, F. Fang*, and G. Zhang. Unlocking LoRA's Capabilities for Fine-tuning Large Language Models with Only Forward Pass. <strong>ICASSP 2026 Under Review</strong> [[Code]](https://github.com/Corsilent/ZO-LoRA-BCD)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- <strong>Z. Wang</strong>, S. Ye, S. Yang, F. Fang*, and G. Zhang. Visual Contrastive Guidance for Improving Generalization of Gaze Estimation. <strong>ICASSP 2026 Under Review</strong> [[Code]](https://github.com/Corsilent/VCG-Gaze)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- <strong>Z. Wang</strong>, F. Fang*, and G. Zhang. Fostering Accuracy and Generalization Ability in Gaze Estimation by Gaze-Relevant Feature Normalization. <strong>ICASSP 2026 Under Review</strong>
 
+- S. Ye, <strong>Z. Wang</strong>, Y. Huang, F. Fang*, G. Zhang, and H. Song. Eliciting CLIP’s Intrinsic Attribute Knowledge through a Dual-Cache Guided Mechanism for Class-Incremental Learning. <strong>IEEE Transactions on Multimedia Under Review</strong>
+
+- S. Ye, Y. Huang, <strong>Z. Wang</strong>, F. Fang*, G. Zhang, and H. Song. CGN: Exploiting Cues-guided High-ievef Scene Semanuics for Gaze Target Decection. <strong>IEEE Transactions on Circuits and Systems for Video Technology Under Review</strong>
+
+- S. Ye, Y. Huang, <strong>Z. Wang</strong>, F. Fang*, and G. Zhang. A Query-Based End-To-End Transformer For Third-Person Human Gaze Analysis Via Joint Fine-Tuning Strategy. <strong>ICASSP 2026 Under Review</strong>
+
+- Y. Du, T. Wang, <strong>Z. Wang</strong>, F. Fang*, and G. Zhang. Alignment-aware Unrolling Network for Multimodal MRI Reconstruction. <strong>ICASSP 2026 Under Review</strong> [[Code]](https://github.com/Corsilent/AUNet)
+
+- T. Wang, Y. Du, J. Wang, <strong>Z. Wang</strong>, F. Fang*, and G. Zhang. Memory-augmented Decoupled Unrolling for Misaligned Multi-modal MRl Reconstruction. <strong>IEEE Journal of Biomedical and Health Informatics Under Review</strong>
+
+- Y. Huang, J. Tang, C. Wang, <strong>Z. Wang</strong>, J. Zhang, Z. Lu, B. Cheng, and L. Leng. SpikingMamba: Towards Energy-Efficient Large Language Models via Knowledge Distillation from Mamba. <strong>Transactions on Machine Learning Research Under Review</strong>
+
+#### Patent
+- Q. Lu, <strong>Z. Wang</strong>，J. Shang, T. Zou, Y. Dai, Y. Yu, and F. Xue. A method, apparatus, device, and medium for recognizing text located in three-dimensional multi-plane. (ZL 2022 1 0310193.5) 
