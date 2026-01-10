@@ -2,6 +2,8 @@
 
 - <strong>Z. Wang</strong>, S. Ye, F. Fang*, and H. Song (2026). Towards Privacy-Protected Generalized Gaze Estimation Using Diffusion Models and Domain Stability Adaptation Framework <strong>AAAI Conference on Artificial Intelligence</strong>. 
 
+- S. Ye, <strong>Z. Wang</strong>, Y. Huang, F. Fang*, G. Zhang, and H. Song (2026). Eliciting CLIP’s Intrinsic Attribute Knowledge through a Dual-Cache Guided Mechanism for Class-Incremental Learning. <strong>IEEE Transactions on Multimedia Under Review</strong>
+
 #### Submitted
 
 - <strong>Z. Wang</strong>, Y. Du, F. Fang*, and G. Zhang. Unlocking LoRA's Capabilities for Fine-tuning Large Language Models with Only Forward Pass. <strong>ICASSP 2026 Under Review</strong> [[Code]](https://github.com/Corsilent/ZO-LoRA-BCD)
@@ -9,8 +11,6 @@
 - <strong>Z. Wang</strong>, S. Ye, S. Yang, F. Fang*, and G. Zhang. Visual Contrastive Guidance for Improving Generalization of Gaze Estimation. <strong>ICASSP 2026 Under Review</strong> [[Code]](https://github.com/Corsilent/VCG-Gaze)
 
 - <strong>Z. Wang</strong>, F. Fang*, and G. Zhang. Fostering Accuracy and Generalization Ability in Gaze Estimation by Gaze-Relevant Feature Normalization. <strong>ICASSP 2026 Under Review</strong>
-
-- S. Ye, <strong>Z. Wang</strong>, Y. Huang, F. Fang*, G. Zhang, and H. Song. Eliciting CLIP’s Intrinsic Attribute Knowledge through a Dual-Cache Guided Mechanism for Class-Incremental Learning. <strong>IEEE Transactions on Multimedia Under Review</strong>
 
 - S. Ye, Y. Huang, <strong>Z. Wang</strong>, F. Fang*, G. Zhang, and H. Song. CGN: Exploiting Cues-guided High-ievef Scene Semanuics for Gaze Target Decection. <strong>IEEE Transactions on Circuits and Systems for Video Technology Under Review</strong>
 
