@@ -1,4 +1,4 @@
-#### Published
+#### Accepted
 
 - <strong>Z. Wang</strong>, S. Ye, F. Fang*, and H. Song (2026). Towards Privacy-Protected Generalized Gaze Estimation Using Diffusion Models and Domain Stability Adaptation Framework <strong>AAAI Conference on Artificial Intelligence</strong>. 
 
