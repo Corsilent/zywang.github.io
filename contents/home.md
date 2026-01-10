@@ -1,7 +1,5 @@
 
 
-[![zywang](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
 He is currently a third-year graduate student at East China Normal University, applying for admission to the PhD program in the Department of Computing (CS) at the Hong Kong Polytechnic University for the Fall 2026 term.
 
 #### Contact
