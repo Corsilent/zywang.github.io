@@ -2,7 +2,7 @@
 
 - <strong>Z. Wang</strong>, S. Ye, F. Fang*, and H. Song (2026). Towards Privacy-Protected Generalized Gaze Estimation Using Diffusion Models and Domain Stability Adaptation Framework <strong>AAAI Conference on Artificial Intelligence</strong>. 
 
-- S. Ye, <strong>Z. Wang</strong>, Y. Huang, F. Fang*, G. Zhang, and H. Song (2026). Eliciting CLIP’s Intrinsic Attribute Knowledge through a Dual-Cache Guided Mechanism for Class-Incremental Learning. <strong>IEEE Transactions on Multimedia Under Review</strong>
+- S. Ye, <strong>Z. Wang</strong>, Y. Huang, F. Fang*, G. Zhang, and H. Song (2026). Eliciting CLIP’s Intrinsic Attribute Knowledge through a Dual-Cache Guided Mechanism for Class-Incremental Learning. <strong>IEEE Transactions on Multimedia</strong>
 
 #### Submitted
 
