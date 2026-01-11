@@ -4,7 +4,7 @@ He is currently a third-year graduate student at East China Normal University, a
 
 #### Contact
 
-Email: 51265901129[at]stu.ecnu.edu.cn
+Email: 51265901129[at]stu.ecnu.edu.cn \
 LinkedIn: www.linkedin.com/in/ziyi-wang-830279375
 
 #### Education
