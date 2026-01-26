@@ -1,5 +1,5 @@
 
-- First-Prize Graduate Academic Scholarship (ECNU), 2024 & 2025.
+- First-Prize Graduate Academic Scholarship (ECNU), 2023 & 2024 & 2025.
 
 - Outstanding Undergraduate Thesis Award (HFUT), 2023.
 
