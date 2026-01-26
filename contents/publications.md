@@ -2,9 +2,9 @@
 
 - <strong>Z. Wang</strong>, S. Ye, F. Fang*, and H. Song. Towards Privacy-Protected Generalized Gaze Estimation Using Diffusion Models and Domain Stability Adaptation Framework. <strong>AAAI (2026)</strong>. 
 
-- <strong>Z. Wang</strong>, S. Ye, S. Yang, F. Fang*, and G. Zhang. Visual Contrastive Guidance for Improving Generalization of Gaze Estimation. <strong>ICASSP</strong> [[Code]](https://github.com/Corsilent/VCG-Gaze)
+- <strong>Z. Wang</strong>, Y. Du, S. Ye, S. Yang, F. Fang*, and G. Zhang. Visual Contrastive Guidance for Improving Generalization of Gaze Estimation. <strong>ICASSP (2026)</strong> [[Code]](https://github.com/Corsilent/VCG-Gaze)
 
-- <strong>Z. Wang</strong>, F. Fang*, and G. Zhang. Fostering Accuracy and Generalization Ability in Gaze Estimation by Gaze-Relevant Feature Normalization. <strong>ICASSP (2026)</strong>
+- <strong>Z. Wang</strong>, Y. Du, S. Ye, S. Yang, F. Fang*, and G. Zhang. Fostering Accuracy and Generalization Ability in Gaze Estimation by Gaze-Relevant Feature Normalization. <strong>ICASSP (2026)</strong>
 
 - S. Ye, Y. Huang, <strong>Z. Wang</strong>, F. Fang*, and G. Zhang. A Query-Based End-To-End Transformer For Third-Person Human Gaze Analysis Via Joint Fine-Tuning Strategy. <strong>ICASSP (2026)</strong>
 
