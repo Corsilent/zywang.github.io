@@ -10,7 +10,7 @@
 
 - Y. Du, T. Wang, <strong>Z. Wang</strong>, F. Fang*, and G. Zhang. Alignment-aware Unrolling Network for Multimodal MRI Reconstruction. <strong>ICASSP (2026)</strong> [[Code]](https://github.com/Corsilent/AUNet)
 
-- Y. Huang, J. Tang, C. Wang, <strong>Z. Wang</strong>, J. Zhang, Z. Lu, B. Cheng, and L. Leng. SpikingMamba: Towards Energy-Efficient Large Language Models via Knowledge Distillation from Mamba. <strong>TMLR (2026)</strong>
+- Y. Huang, J. Tang, C. Wang, <strong>Z. Wang</strong>, J. Zhang, Z. Lu, B. Cheng, and L. Leng. SpikingMamba: Towards Energy-Efficient Large Language Models via Knowledge Distillation from Mamba. <strong>TMLR (2026)</strong> [[OpenReview]](https://openreview.net/forum?id=uxb2jcCLxt&referrer)
 
 
 
@@ -21,6 +21,8 @@
 - S. Ye, Y. Huang, <strong>Z. Wang</strong>, F. Fang*, G. Zhang, and H. Song. CGN: Exploiting Cues-guided High-ievef Scene Semanuics for Gaze Target Decection. <strong>TCSVT Under Review</strong>
 
 - T. Wang, Y. Du, J. Wang, <strong>Z. Wang</strong>, F. Fang*, and G. Zhang. Memory-augmented Decoupled Unrolling for Misaligned Multi-modal MRl Reconstruction. <strong>JBHI Under Review</strong>
+
+- S. Ye, C. Lou, C. Hang, <strong>Z. Wang</strong>, C. Shi, L. Li, F. Fang*, G. Wang and G. Zhang. MF-ASD: A Mamba-based Fusion Network for Autism Spectrum Disorder Screening Using Dynamic Multi-level Facial Semantics. <strong>TAC Under Review</strong>
 
 
 #### Patent
