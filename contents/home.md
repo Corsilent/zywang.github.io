@@ -1,6 +1,6 @@
 
 
-He is currently a third-year graduate student at East China Normal University, applying for admission to the PhD program in the Department of Computing (CS) at the Hong Kong Polytechnic University for the Fall 2026 term.
+He is currently a third-year graduate student at East China Normal University, applying for admission to the **Hong Kong** PhD program for the **January 2027 / September 2027 intake**.
 
 #### Contact
 
