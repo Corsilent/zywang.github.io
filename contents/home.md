@@ -8,8 +8,11 @@ I am actively seeking PhD opportunities in **Hong Kong** for the **January 2027 
 
 #### Contact
 
-Email: 51265901129[at]stu.ecnu.edu.cn \
-LinkedIn: www.linkedin.com/in/ziyi-wang-830279375
+Email: 51265901129[at]stu.ecnu.edu.cn 
+
+LinkedIn: [‪Ziyi Wang‬ - ‪LinkedIn](www.linkedin.com/in/ziyi-wang-830279375) 
+
+Google Scholar：[‪Ziyi Wang‬ - ‪Google Scholar](https://scholar.google.com/citations?user=nVGS1OMAAAAJ&hl=zh-CN&oi=sra)
 
 #### Education
 * M.E., Computer Science and Technology, East China Normal University, 2023 - 2026.
@@ -21,8 +24,6 @@ LinkedIn: www.linkedin.com/in/ziyi-wang-830279375
 - Selected for the competitive **S26 cohort of MiraclePlus** (formerly YC China). 
 - Successfully secured **~5M RMB** in initial funding from top-tier institutional investors. 
 - Leading the development of AI-driven solutions for satellite intelligence and end-to-end Agent workflows
-
-
 
 #### Research Interests
 
