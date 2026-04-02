@@ -10,7 +10,7 @@ I am actively seeking PhD opportunities in **Hong Kong** for the **January 2027 
 
 Email: 51265901129[at]stu.ecnu.edu.cn 
 
-LinkedIn: [‪Ziyi Wang‬ - ‪LinkedIn](www.linkedin.com/in/ziyi-wang-830279375) | Google Scholar：[‪Ziyi Wang‬ - ‪Google Scholar](https://scholar.google.com/citations?user=nVGS1OMAAAAJ&hl=zh-CN&oi=sra)
+LinkedIn: [‪Ziyi Wang‬ - ‪LinkedIn](www.linkedin.com/in/ziyi-wang-830279375)  |  Google Scholar：[‪Ziyi Wang‬ - ‪Google Scholar](https://scholar.google.com/citations?user=nVGS1OMAAAAJ&hl=zh-CN&oi=sra)
 
 #### Education
 * M.E., Computer Science and Technology, East China Normal University, 2023 - 2026.
