@@ -1,6 +1,6 @@
 
 
-I received my bachelor's degree from Hefei University of Technology and my master's degree from East China Normal University. I will be joining the Department of Computing at Hong Kong Polytechnic University as a PhD student in September 2026.
+I received my bachelor's degree from Hefei University of Technology and my master's degree from East China Normal University. I will be joining the Department of Computing at **Hong Kong Polytechnic University** as a PhD student in September 2026.
 
 Currently, I am also the Co-Founder of AstraFlux, an AI startup incubated by **MiraclePlus (formerly YC China, S26 cohort)**. We are dedicated to empowering the commercial aerospace sector with high-reliability satellite intelligence and autonomous AI Agent workflows.
 
