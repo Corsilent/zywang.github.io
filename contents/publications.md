@@ -18,7 +18,7 @@
 
 #### Submitted
 
-- <strong>Z. Wang</strong>, S. Ye,  F. Fang, and G. Zhang. Stabilizing Zeroth-Order LoRA Fine-Tuning via Gauge-Aware Factor Balancing. <strong>AAAI (2027) Under Review</strong>
+- <strong>Z. Wang</strong>, Z. Xu,  S. Ye, and N. Liu. Stabilizing Zeroth-Order Optimization in Non-Identifiable Low-Rank Parameterizations. <strong>AAAI (2027) Under Review</strong>
 - T. Wang, Y. Du, J. Wang, <strong>Z. Wang</strong>, F. Fang*, and G. Zhang. Memory-augmented Decoupled Unrolling for Misaligned Multi-modal MRl Reconstruction. <strong>JBHI minor revision</strong>
 - S. Ye, C. Lou, C. Hang, <strong>Z. Wang</strong>, C. Shi, L. Li, F. Fang*, G. Wang and G. Zhang. MF-ASD: A Mamba-based Fusion Network for Autism Spectrum Disorder Screening Using Dynamic Multi-level Facial Semantics. <strong>TAC major revision</strong>
 
