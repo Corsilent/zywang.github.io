@@ -18,10 +18,9 @@
 
 #### Submitted
 
-- <strong>Z. Wang</strong>, S. Ye,  F. Fang, and G. Zhang. Stabilizing Zeroth-Order LoRA Fine-Tuning via Gauge-Aware Factor Balancing. <strong>EMNLP (2026) Under Review</strong>
-- S. Ye, Y. Huang, <strong>Z. Wang</strong>, F. Fang*, G. Zhang, and H. Song. CGN: Exploiting Cues-guided High-ievef Scene Semanuics for Gaze Target Decection. <strong>TCSVT Under Review</strong>
-- T. Wang, Y. Du, J. Wang, <strong>Z. Wang</strong>, F. Fang*, and G. Zhang. Memory-augmented Decoupled Unrolling for Misaligned Multi-modal MRl Reconstruction. <strong>JBHI Under Review</strong>
-- S. Ye, C. Lou, C. Hang, <strong>Z. Wang</strong>, C. Shi, L. Li, F. Fang*, G. Wang and G. Zhang. MF-ASD: A Mamba-based Fusion Network for Autism Spectrum Disorder Screening Using Dynamic Multi-level Facial Semantics. <strong>TAC Under Review</strong>
+- <strong>Z. Wang</strong>, S. Ye,  F. Fang, and G. Zhang. Stabilizing Zeroth-Order LoRA Fine-Tuning via Gauge-Aware Factor Balancing. <strong>AAAI (2027) Under Review</strong>
+- T. Wang, Y. Du, J. Wang, <strong>Z. Wang</strong>, F. Fang*, and G. Zhang. Memory-augmented Decoupled Unrolling for Misaligned Multi-modal MRl Reconstruction. <strong>JBHI minor revision</strong>
+- S. Ye, C. Lou, C. Hang, <strong>Z. Wang</strong>, C. Shi, L. Li, F. Fang*, G. Wang and G. Zhang. MF-ASD: A Mamba-based Fusion Network for Autism Spectrum Disorder Screening Using Dynamic Multi-level Facial Semantics. <strong>TAC major revision</strong>
 
 
 #### Patent
