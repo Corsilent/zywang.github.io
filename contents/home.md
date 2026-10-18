@@ -1,6 +1,6 @@
 
 
-I am a PhD student in the Department of Computing at The Hong Kong Polytechnic University.
+I am a PhD student in the Department of Computing at The Hong Kong Polytechnic University, supervised by Professor Ninghao Liu.
 
 
 #### Contact
